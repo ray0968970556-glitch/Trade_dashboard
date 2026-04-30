@@ -1,6 +1,5 @@
-gradio
+streamlit
 yfinance
 pandas
 numpy
 plotly
-python-dateutil
